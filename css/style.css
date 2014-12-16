@@ -12,7 +12,7 @@
 
 	body
 	{
-		background: #090909;
+		background: #A4A4A4;
 	}
 
 	body,input,textarea,select
@@ -296,7 +296,7 @@
 	#main
 	{
 		position: relative;
-		background: #fff url(images/overlay.png) repeat;
+		background: #D8D8D8 url(images/overlay.png) repeat;
 	}
 	
 	.divider
@@ -330,11 +330,13 @@
 		position: relative;
 		padding: 3em 0em;
 		text-align: center;
+		background: #121212;
 		color: rgba(255,255,255,.2);
 	}
 	
 	#copyright .container
 	{
+		
 	}
 	
 	#copyright a
