@@ -72,8 +72,16 @@ p {
 	display: block;
     float: left;
 	width: 30%;
-	margin-left: 3px;
+	margin-right: 3px;
 }
+
+.alignimage2 {
+	display: block;
+    float: left;
+	width: 30%;
+	margin-right: 5%;
+}
+
 
 .killfloat{
 clear: both;
@@ -82,7 +90,7 @@ clear: both;
 .list{
 margin-top: 3px;
 	word-wrap: break-word;
-	width: 60%;
+	width: 65%;
 	margin-left: auto;
    	float: right;
 }
@@ -95,6 +103,7 @@ margin-top: 3px;
 	width: 50%;
 	margin-left: auto;
     margin-right: auto;
+	
 }
 
 a, p a {
