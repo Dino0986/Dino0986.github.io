@@ -57,7 +57,7 @@ body {
 
 p {
 	margin-top: 3px;
-	
+	font-size: 100%;
 }
 
 .centerbox {
@@ -87,10 +87,20 @@ p {
 clear: both;
 }
 
-.list{
+.listtitle{
 margin-top: 3px;
+margin-left: 30px;
 	word-wrap: break-word;
 	width: 65%;
+	margin-left: auto;
+   	float: right;
+}
+
+.list{
+margin-top: 3px;
+margin-left: 30px;
+	word-wrap: break-word;
+	width: 63%;
 	margin-left: auto;
    	float: right;
 }
